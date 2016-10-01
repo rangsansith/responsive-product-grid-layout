@@ -1,4 +1,4 @@
-# [Codrops Responsive Product Grid Layout Clone](buckymaler.github.io/responsive-product-grid-layout-clone)
+# [Codrops Responsive Product Grid Layout Clone](buckymaler.github.io/responsive-product-grid-layout)
 
 A responsive product grid layout that comes with some UI details for inspiration. The product will rotate showing the backside of the item when the rotate button is clicked. Some examples of how tooltips can appear on hover or click are also included.
 
@@ -6,7 +6,7 @@ The original Product Grid Layout is on [Codrops](http://tympanus.net/codrops/201
 
 This project was developed with HTML5 & Sass.
 
-[LIVE PREVIEW](buckymaler.github.io/responsive-product-grid-layout-clone)
+[LIVE PREVIEW](buckymaler.github.io/responsive-product-grid-layout)
 
 ## Misc:
 
