@@ -1,0 +1,25 @@
+*
+	box-sizing: border-box
+	
+.cf:before,
+.cf:after
+	content: " "
+	display: table
+
+.cf:after
+	clear: both
+
+.wrapper
+	position: relative
+	margin: 0 auto
+
+	&--small
+		@extend .wrapper
+		width: 90%
+		max-width: 1040px
+
+	&--large
+		@extend .wrapper
+		width: 95%
+		max-width: 1440px
+		
